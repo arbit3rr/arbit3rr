@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirhosseinh77&theme=vue)
+![Amirhossein's activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirhosseinh77&theme=vue)
 
 [![Amirhossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhosseinh77)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosseinh77)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Pandas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pandas-Team)](https://github.com/amirhosseinh77/github-readme-stats)
