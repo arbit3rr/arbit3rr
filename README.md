@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![Amirhossein's activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirhosseinh77&theme=github_dark)
 
-[![Amirhossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhosseinh77&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Amirhossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhosseinh77&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
